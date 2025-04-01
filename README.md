@@ -1,5 +1,5 @@
 
-## 😎 Sobre Mim 
+##  Sobre Mim 
 Opa! Meu nome é **Kauan Xavier Moreira**, tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento. Estou em constante aprendizado e buscando oportunidades para aplicar minhas habilidades em **desenvolvimento web e mobile**.
 
 ## 🧑‍💻 Habilidades Técnicas 
