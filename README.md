@@ -3,7 +3,6 @@
 Opa! Meu nome é **Kauan Xavier Moreira**, tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento. Estou em constante aprendizado e buscando oportunidades para aplicar minhas habilidades em **desenvolvimento web e mobile**.
 
 ## 🧑‍💻 Habilidades Técnicas 
-- **Linguagens e Frameworks**: HTML, CSS, JavaScript, PHP, React Native, Laravel
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanxm10&layout=donut&theme=dark)](https://github.com/Kauanxm10/github-readme-stats)
 - **Bancos de Dados**: MySQL, MariaDB, Firebase  
 - **Metodologias Ágeis**: Noções em Scrum para gestão e organização de projetos  
