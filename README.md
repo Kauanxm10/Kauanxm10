@@ -14,7 +14,6 @@ Opa! Meu nome é **Kauan Xavier Moreira**, tenho 18 anos e sou apaixonado por te
 - Familiaridade com **metodologias ágeis**, como Scrum, para entrega de projetos bem estruturados e ágeis.    
 
 ## 📧 Entre em Contato 
-Adoro trocar ideias!!  
 
 - **LinkedIn**: [Kauan Xavier](https://www.linkedin.com/in/kauan-xavier-a49635280)  
 - **E-mail**: kauanxm10@gmail.com 
